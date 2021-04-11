@@ -7,7 +7,6 @@ if(isset($_POST["submit"])){
         $title = mysqli_real_escape_string($conn, $_POST["title"]);
         $task = mysqli_real_escape_string($conn, $_POST["task"]);
     
-    
         $sql = "INSERT INTO tasks(title, task, completed) VALUES ('$title', '$task', 'false')";
         mysqli_query($conn, $sql);
         Header("Location: ../index.php?success");

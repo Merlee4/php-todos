@@ -21,7 +21,7 @@ HTML / CSS / PHP / MYSQL
 <br/>
 
 ### You're All Set. Enjoy 😊
-   ![PHP Todos Screenshot](./screenshot.png)
+   ![PHP Todos Screenshot](./screenshot.PNG)
 Checkout my other Projects here : [github.com/Merlee4](https://github.com/Merlee4)
 <br/>
 ___

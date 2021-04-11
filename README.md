@@ -4,7 +4,7 @@ Invite me to work on projects : [Twitter](https://twitter.com/Merlee4t), [Facebo
 
 HTML / CSS / PHP / MYSQL
 ## How to get Started 😁
-###  Using [Xampp]()
+###  Using Xampp
 1. Clone the repository into the htdocs folder on your local machine.
 2. Create a database called `phptodos`.
     ## `CREATE DATABASE phptodos;`
@@ -21,7 +21,7 @@ HTML / CSS / PHP / MYSQL
 <br/>
 
 ### You're All Set. Enjoy 😊
-   ![PHP Todos Screenshot](screenshot.png)
+   ![PHP Todos Screenshot](./screenshot.png)
 Checkout my other Projects here : [github.com/Merlee4](https://github.com/Merlee4)
 <br/>
 ___
